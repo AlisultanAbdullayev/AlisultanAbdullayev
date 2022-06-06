@@ -34,6 +34,7 @@ Thanks for checking out my profile. I am an enthusiastic and loyal developer and
 ### Languages and Tools:
 
 <img align="left" alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" style="padding-right:10px;" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />          
 <img align="left" alt="Intellij Idea" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/intellij/intellij-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Spring Boot" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/spring/spring-original-wordmark.svg" style="padding-right:10px;"/>
 <img align="left" alt="Swift" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/swift/swift-original.svg" style="padding-right:10px;"/>
