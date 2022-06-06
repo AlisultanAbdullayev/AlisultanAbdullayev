@@ -6,15 +6,15 @@
 
 <br>
 
-Thanks for checking out my profile. I am an enthusiastic and loyal developer and iOS Developer & Mobile software engineer with tools as (Swift & SwiftUI). Currently searching for a new and interesting role as a software engineer,  which will help me to get more experiences and become the best in my field. Furthermore, it will provide opportunity to demonstrate all my knowledge and skills. Also, I'm 25 years old.
+Thanks for checking out my profile. I am an enthusiastic and loyal iOS Developer & Mobile software engineer. Generaly use tools as (Swift & SwiftUI). Currently searching for a new and interesting role as a software engineer,  which will help me to get more experiences and become the best in my field. Furthermore, it will provide opportunity to demonstrate all my knowledge and skills. Also, I'm 25 years old.
 
 <br>
 
 
-- 🔭 I’m currently working as a freelance mobile engineer using Swift and SwiftUI frameworks.
+- 🔭 I’m currently working as a freelance mobile developer using Swift and SwiftUI framework.
 - 🌱 I’m currently mastering my knowledge of Core Data, Combine and taking part in big projects.
 - 👯 I’m looking to collaborate with other students willing to create open-source projects.
-- 🤔 I’m looking for help with SwiftUI boot and Combine frameworks. There is lots of stuff to do.
+- 🤔 I’m looking for help with SwiftUI, Combine and Firestore/Firebase frameworks. There is lots of stuff to do.
 - 💬 Ask me about iOS, Swift and SwiftUI. Also, I am kinda experienced in Java and Spring Boot frameworks.
 - 📫 How to reach me: ```alijaver@outlook.com```   &nbsp; ```t.me/@unknownanonym```
 - 🏋️ I like to play football and tennis in my spare time.             
