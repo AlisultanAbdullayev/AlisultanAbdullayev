@@ -40,14 +40,14 @@ Thanks for checking out my profile. I am an enthusiastic and loyal developer and
 <img align="left" alt="Firebase" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px;"/>
 <img align="left" alt="SQLite" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Linux" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linux/linux-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;"/>
+
 
 <br />
 <br />
 
 ---
-
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlisultanAbdullayev&count_private=true&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
