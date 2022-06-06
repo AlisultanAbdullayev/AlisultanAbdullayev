@@ -6,16 +6,16 @@
 
 <br>
 
-Thanks for checking out my profile. I am an enthusiastic and loyal developer and Full Stack & Backend software engineer with tools as (Java & Spring). Moreover, I like iOS Development. Currently searching for a new and interesting role as a software engineer,  which will help me to get more experiences and become the best in my field. Furthermore, it will provide opportunity to demonstrate all my knowledge and skills. Also, I'm 25 years old.
+Thanks for checking out my profile. I am an enthusiastic and loyal developer and iOS Developer & Mobile software engineer with tools as (Swift & SwiftUI). Currently searching for a new and interesting role as a software engineer,  which will help me to get more experiences and become the best in my field. Furthermore, it will provide opportunity to demonstrate all my knowledge and skills. Also, I'm 25 years old.
 
 <br>
 
 
-- 🔭 I’m currently working as a freelance backend engineer using Spring boot and Hibernate frameworks.
-- 🌱 I’m currently mastering my knowledge of Spring boot and taking part in big projects.
+- 🔭 I’m currently working as a freelance mobile engineer using Swift and SwiftUI frameworks.
+- 🌱 I’m currently mastering my knowledge of Core Data, Combine and taking part in big projects.
 - 👯 I’m looking to collaborate with other students willing to create open-source projects.
-- 🤔 I’m looking for help with Spring boot and Hibernate frameworks. There is lots of stuff to do.
-- 💬 Ask me about Spring boot and Hibernate. Also, I am kinda experienced in Vaadin and JavaFX frameworks.
+- 🤔 I’m looking for help with SwiftUI boot and Combine frameworks. There is lots of stuff to do.
+- 💬 Ask me about iOS, Swift and SwiftUI. Also, I am kinda experienced in Java and Spring Boot frameworks.
 - 📫 How to reach me: ```alijaver@outlook.com```   &nbsp; ```t.me/@unknownanonym```
 - 🏋️ I like to play football and tennis in my spare time.             
 - 📖 I'm addicted to reading. Especially everything about programming and time-managements.                      
@@ -33,7 +33,7 @@ Thanks for checking out my profile. I am an enthusiastic and loyal developer and
 
 ### Languages and Tools:
 
-<img align="left" alt="Java" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" style="padding-right:10px;" />
 <img align="left" alt="Intellij Idea" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/intellij/intellij-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Spring Boot" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/spring/spring-original-wordmark.svg" style="padding-right:10px;"/>
 <img align="left" alt="Swift" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/swift/swift-original.svg" style="padding-right:10px;"/>
