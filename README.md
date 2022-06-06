@@ -33,14 +33,13 @@ Thanks for checking out my profile. I am an enthusiastic and loyal developer and
 
 ### Languages and Tools:
 
-<img align="left" alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" style="padding-right:10px;" />         
-<img align="left" alt="Intellij Idea" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/intellij/intellij-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="Spring Boot" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/spring/spring-original-wordmark.svg" style="padding-right:10px;"/>
+<img align="left" alt="Apple" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" style="padding-right:10px;" />         
+<img align="left" alt="XCode" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Swift" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/swift/swift-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Firebase" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px;"/>
 <img align="left" alt="Linux" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linux/linux-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Docker" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/docker/docker-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="PostgreSql" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/postgresql/postgresql-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="PostgreSql" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/heroku/heroku-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="SQLite" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Vaadin" width="50px" src="https://github.com/vaadin/vaadin-icons/blob/master/assets/svg/vaadin-h.svg" style="padding-right:10px;"/>
 
 <br />
