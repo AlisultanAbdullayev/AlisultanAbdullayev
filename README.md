@@ -6,16 +6,16 @@
 
 <br>
 
-Thanks for checking out my profile. I am an enthusiastic and loyal iOS Developer & Mobile software engineer. Generaly use tools as (Swift & SwiftUI). Currently searching for a new and interesting role as a software engineer,  which will help me to get more experiences and become the best in my field. Furthermore, it will provide opportunity to demonstrate all my knowledge and skills. Also, I'm 25 years old.
+Thanks for checking out my profile. I am an enthusiastic and loyal Java Developer & Back End software engineer. Generaly use tools as (Java & Spring Boot). Currently searching for a new and interesting role as a backend software engineer,  which will help me to get more experiences and become the best in my field. Furthermore, it will provide opportunity to demonstrate all my knowledge and skills. Also, I'm 25 years old.
 
 <br>
 
 
-- 🔭 I’m currently working as a freelance mobile developer using Swift and SwiftUI framework.
-- 🌱 I’m currently mastering my knowledge of Core Data, Combine and taking part in big projects.
+- 🔭 I’m currently working as a freelance Java developer using Spring Boot and Hibernate framework.
+- 🌱 I’m currently mastering my knowledge of Spring Security, Unit/Integrated Testing and taking part in big projects.
 - 👯 I’m looking to collaborate with other students willing to create open-source projects.
-- 🤔 I’m looking for help with SwiftUI, Combine and Firestore/Firebase frameworks. There is lots of stuff to do.
-- 💬 Ask me about iOS, Swift and SwiftUI. Also, I am kinda experienced in Java and Spring Boot frameworks.
+- 🤔 I’m looking for help with Spring Cloud, Reactive Spring and NoSQL_DB stacks. There is lots of stuff to do.
+- 💬 Ask me about Java, Spring Boot and Hiberante. Also, I am kinda experienced in Vaadin and JavaFX frameworks.
 - 📫 How to reach me: ```alijaver@outlook.com```   &nbsp; ```t.me/@unknownanonym```
 - 🏋️ I like to play football and tennis in my spare time.             
 - 📖 I'm addicted to reading. Especially everything about programming and time-managements.                      
@@ -33,16 +33,16 @@ Thanks for checking out my profile. I am an enthusiastic and loyal iOS Developer
 
 ### Languages and Tools:
 
-<img align="left" alt="Apple" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" style="padding-right:10px;" />         
-<img align="left" alt="XCode" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="Swift" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/swift/swift-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="SwiftUI" width="50px" src="https://img.icons8.com/color/96/undefined/swiftui.png" style="padding-right:10px;"/>
-<img align="left" alt="Firebase" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px;"/>
-<img align="left" alt="SQLite" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="Linux" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linux/linux-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;"/>
-
+<img align="left" alt="IntelliJ" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/intellij/intellij-original.svg" style="padding-right:10px;"/>         
+<img align="left" alt="Spring" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/spring/spring-original-wordmark.svg" style="padding-right:10px;"/>
+<img align="left" alt="Linux" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linux/linux-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Gradle" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/gradle/gradle-plain-wordmark.svg" style="padding-right:10px;"/>
+<img align="left" alt="Vaadin" width="50px" src="https://github.com/vaadin/vaadin-icons/blob/master/assets/svg/vaadin-h.svg" style="padding-right:10px;"/>
+<img align="left" alt="PostgreSQL" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="SQLite" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Docker" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/docker/docker-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>
 
 <br />
 <br />
