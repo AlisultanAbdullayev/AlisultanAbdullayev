@@ -6,7 +6,7 @@
 
 <br>
 
-Thanks for checking out my profile. I am an enthusiastic and loyal Java Developer & Back End software engineer. Generaly use tools as (Java & Spring Boot). Currently searching for a new and interesting role as a backend software engineer,  which will help me to get more experiences and become the best in my field. Furthermore, it will provide opportunity to demonstrate all my knowledge and skills. Also, I'm 25 years old.
+Thanks for checking out my profile. I am an enthusiastic and loyal Java Developer & Back End software engineer. Generaly use tools as (Java & Spring Boot). Currently searching for a new and interesting role as a backend software engineer,  which will help me to get more experiences and become the best in my field. Furthermore, it will provide opportunity to demonstrate all my knowledge and skills. Also, I'm 26 years old.
 
 <br>
 
